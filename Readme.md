@@ -1,3 +1,3 @@
- Portfólio (Ainda não finalizado)
+ Portfólio Antigo
 
-Portfólio profissional que apresenta todos os meus projetos.
+Primeira tentativa de portfolio, tive que criar um novo pois este modelo ficaria bem ruim para fazer a responsividade.
